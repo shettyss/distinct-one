@@ -1,1 +1,1 @@
-console.log("added index js");
+console.log("added index js file");
