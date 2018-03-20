@@ -5,3 +5,7 @@ var grades = function(){
 var studentData = function(){
     console.log("student info");
 }
+
+var staff= function(){
+    console.log("staff info");
+}
