@@ -2,6 +2,6 @@ var academic = function(){
     console.log("academic");
 };
 
-var studentData = function(){
+var studentAcademic = function(){
     console.log("student Academics");
 }
