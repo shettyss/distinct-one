@@ -1,9 +1,9 @@
-var grades = function(){
-    console.log("Grades of student");
+var academic = function(){
+    console.log("academic");
 };
 
-var studentData = function(){
-    console.log("student info");
+var studentAcademic = function(){
+    console.log("student Academics");
 }
 
 var staff= function(){
