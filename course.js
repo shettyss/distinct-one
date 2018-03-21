@@ -5,3 +5,7 @@ var addCourse = function(){
 var basicInfo = function(){
         console.log("gather basic info course");
 };
+
+var updateCourse = function(){
+        console.log("Updating course");
+};
