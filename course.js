@@ -1,3 +1,5 @@
+var cleanUp;
+
 var addCourse = function(){
     console.log("added crs js func");
 }
