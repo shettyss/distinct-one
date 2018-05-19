@@ -11,3 +11,27 @@ var basicInfo = function(){
 var updateCourse = function(){
         console.log("Updating course");
 };
+
+var categoryUpdate = function(){
+    var totalCourses;
+    var amountPaid = 20000;
+    var lecturingClasses;
+
+    if(amountPaid !== '' && amountPaid !== undefined){
+        lecturingClasses = 8;
+    }
+
+    var validate = function(){
+        if(lecturingClasses === 0 || amountPaid === 0){
+            return false;
+        }else{
+            retuen true;
+        }
+    var validation = validate();
+    if(validation.status){
+        console.log("status ok");
+    }else {
+        console.log("status fails");
+    }
+
+}
