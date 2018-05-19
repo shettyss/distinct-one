@@ -25,9 +25,16 @@ var analysisCourseonrequest = function(){
 
 var courseInfo = function(){
         var courseName = [];
-        var courseId , subcoursesId , mapCourseId;
+        var courseId , subcourseId, mapCourseId;
         courseId.push("57848" , "24445");
         courseName.push("C++" , "Data structure");
+};
+
+var professorlist = function(){
+        var courseRelatedData = courseInfo();
+        var professorName = [];
+        var courseId , subcourseId;
+        professorName.push("David A" , "Britney P");
 };
 
 var studentlist = function(){
@@ -36,6 +43,7 @@ var studentlist = function(){
         var courseId , subcourseId , studentName;
         studentName.push("Xavier" , "Paris" , "fedrer");
 };
+
 
 var categoryUpdate = function(){
     var totalCourses;
