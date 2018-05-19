@@ -23,6 +23,20 @@ var analysisCourseonrequest = function(){
         localanalysis = "requested for analysid data";
 };
 
+var courseInfo = function(){
+        var courseName = [];
+        var courseId , subcoursesId , mapCourseId;
+        courseId.push("57848" , "24445");
+        courseName.push("C++" , "Data structure");
+};
+
+var studentlist = function(){
+        var courseBasic = courseInfo();
+        var studentList = [];
+        var courseId , subcourseId , studentName;
+        studentName.push("Xavier" , "Paris" , "fedrer");
+};
+
 var categoryUpdate = function(){
     var totalCourses;
     var amountPaidCourseCourse = 20000;
