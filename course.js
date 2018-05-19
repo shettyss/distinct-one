@@ -17,7 +17,7 @@ var categoryUpdate = function(){
     var amountPaidCourseCourse = 20000;
     var lecturingClasses;
 
-    if(amountPaidCourse !== '' && amountPaidCourse !== undefined){
+    if(amountPaidCourse !== '' && amountPaidCourse !== undefined && lecturingClasses){
         lecturingClasses = 8;
     }
 
