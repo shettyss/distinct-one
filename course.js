@@ -23,14 +23,14 @@ var analysisCourseonrequest = function(){
         localanalysis = "requested for analysid data";
 };
 
-var courseInfo = function(){
+var courseBasicInfo = function(){
         var courseName = [];
         var courseId , subcourseId;
         courseName.push("C++" , "Data structure");
 };
 
 var professorlist = function(){
-        var courseRelatedData = courseInfo();
+        var courseRelatedData = courseBasicInfo();
         var professorName = [];
         var courseId , subcourseId;
         professorName.push("David A" , "Britney P");
