@@ -5,8 +5,12 @@ var addCategory = function(){
     console.log("added category js func");
 }
 
-var addCategory = function(){
-    console.log("added category js func");
+var upgradeCategory = function(){
+    console.log("upgrade category js func");
+}
+
+var deleteCategory = function(){
+    console.log("delete category js func");
 }
 
 var extendCategory = function(){

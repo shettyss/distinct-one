@@ -12,6 +12,11 @@ var updateCourse = function(){
         console.log("Updating course");
 };
 
+var analysisCourse = function(){
+        console.log("analysis course");
+        var analysisCourse;
+};
+
 var categoryUpdate = function(){
     var totalCourses;
     var amountPaidCourseCourse = 20000;
