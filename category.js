@@ -5,8 +5,13 @@ var addCategory = function(){
     console.log("added category js func");
 }
 
-var addCategory = function(){
-    console.log("added category js func");
+var upgradeCategory = function(){
+    var categorylatest;
+    var categoryId;
+}
+
+var surfaseCategory = function(){
+    console.log("Surface category info added");
 }
 
 var extendCategory = function(){

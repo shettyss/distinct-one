@@ -12,6 +12,17 @@ var updateCourse = function(){
         console.log("Updating course");
 };
 
+var analysisCourse = function(){
+        console.log("analysis course");
+        var localanalysis;
+        localanalysis = "added local analysis";
+};
+
+var analysisCourseonrequest = function(){
+        var request_analysis;
+        localanalysis = "requested for analysid data";
+};
+
 var categoryUpdate = function(){
     var totalCourses;
     var amountPaidCourseCourse = 20000;
