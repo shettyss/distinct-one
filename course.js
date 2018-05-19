@@ -14,15 +14,15 @@ var updateCourse = function(){
 
 var categoryUpdate = function(){
     var totalCourses;
-    var amountPaid = 20000;
+    var amountPaidCourseCourse = 20000;
     var lecturingClasses;
 
-    if(amountPaid !== '' && amountPaid !== undefined){
+    if(amountPaidCourse !== '' && amountPaidCourse !== undefined){
         lecturingClasses = 8;
     }
 
     var validate = function(){
-        if(lecturingClasses === 0 || amountPaid === 0){
+        if(lecturingClasses === 0 || amountPaidCourse === 0){
             return false;
         }else{
             retuen true;
