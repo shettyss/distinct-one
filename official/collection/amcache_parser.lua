@@ -1,5 +1,5 @@
 --[=[ 
-name: Amcache Parsers
+name: Amcache Parsers Forever
 filetype: Infocyte Extension
 type: Collection
 description: |
