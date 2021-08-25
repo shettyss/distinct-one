@@ -1,5 +1,5 @@
 --[=[ 
-name: Delete Files AGGS
+name: Delete Files AGGSPN
 filetype: Infocyte Extension
 type: Response
 description: |  
