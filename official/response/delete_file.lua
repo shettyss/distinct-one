@@ -1,5 +1,5 @@
 --[=[ 
-name: Delete Files AGGSPN Neva PM SG KL
+name: Delete Files AGGSP
 filetype: Infocyte Extension
 type: Response
 description: |  
