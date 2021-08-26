@@ -1,5 +1,5 @@
 --[=[ 
-name: Delete Files AGG
+name: Delete Files APP
 filetype: Infocyte Extension
 type: Response
 description: |  
