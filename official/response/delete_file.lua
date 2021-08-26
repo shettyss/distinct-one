@@ -1,5 +1,5 @@
 --[=[ 
-name: Delete Files Kane William
+name: Delete Files Kane William Not
 filetype: Infocyte Extension
 type: Response
 description: |  
