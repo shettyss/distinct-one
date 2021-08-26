@@ -1,5 +1,5 @@
 --[=[ 
-name: Delete Files APP
+name: Delete Files ALD
 filetype: Infocyte Extension
 type: Response
 description: |  
