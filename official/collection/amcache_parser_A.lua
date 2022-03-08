@@ -1,5 +1,5 @@
 --[=[ 
-name: Amcache Parsers Forever Me You FB
+name: Amcache Parsers Forever Me You FBS
 filetype: Infocyte Extension
 type: Collection
 description: |
