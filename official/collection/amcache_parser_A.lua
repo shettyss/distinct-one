@@ -31,7 +31,6 @@ args:
 
 --[=[ SECTION 1: Inputs ]=]
 -- hunt.arg(name = <string>, isRequired = <boolean>, [default])
--- hunt.global(name = <string>, isRequired = <boolean>, [default])
 
 differential = hunt.arg.boolean("differential", false, true) -- Will save last scan locally and only add new items on subsequent scans.
 
