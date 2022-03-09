@@ -32,7 +32,7 @@ args:
 --[=[ SECTION 1: Inputs ]=]
 -- hunt.arg(name = <string>, isRequired = <boolean>, [default])
 
-differential = hunt.arg.boolean("differential", false, true) -- Will save last scan locally and only add new items on subsequent scans.
+differential = hunt.arg.boolean("differential", false, true) -- Will saves last scan locally and only add new items on subsequent scans.
 
 local verbose = hunt.global.boolean("verbose", false, false)
 local test = hunt.global.boolean("test", false, true)
