@@ -1,5 +1,5 @@
 --[=[
-name: Yara Scanner
+name: Yara Scanner V1
 type: Collection
 description: | 
     Scans files on disk with YARA signatures categorized as either informational
