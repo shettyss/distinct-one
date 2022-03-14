@@ -1,5 +1,5 @@
 --[=[
-name: Force System Reboot
+name: Force System Reboot O2
 filetype: Infocyte Extension
 type: Response
 description: Forces system reboot after delay
