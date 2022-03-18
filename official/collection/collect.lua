@@ -1,4 +1,4 @@
 --[=[ 
-name: col
+name: collect
 filetype: Test Ext
 type: Collection
