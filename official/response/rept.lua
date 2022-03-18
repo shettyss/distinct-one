@@ -1,4 +1,4 @@
 --[=[ 
-name: revert
+name: rept
 filetype: Infocyte Extension
 type: Response
