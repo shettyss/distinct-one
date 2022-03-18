@@ -1,4 +1,4 @@
 --[=[ 
-name: respons
+name: resp
 filetype: Infocyte Extension
 type: Response
