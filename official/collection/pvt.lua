@@ -1,4 +1,4 @@
 --[=[ 
-name: pvt PO
+name: pvt POI
 filetype: Test Ext
 type: Collection
