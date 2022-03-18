@@ -1,4 +1,4 @@
 --[=[ 
-name: collar
+name: cold
 filetype: Test Ext
 type: Collection
