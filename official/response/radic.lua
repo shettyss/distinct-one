@@ -1,4 +1,4 @@
 --[=[ 
-name: rapid AB
+name: radic
 filetype: Infocyte Extension
 type: Response
