@@ -1,4 +1,4 @@
 --[=[ 
-name: radic
+name: radica
 filetype: Infocyte Extension
 type: Response
