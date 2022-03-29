@@ -1,4 +1,4 @@
 --[=[ 
-name: ratil
+name: ratile
 filetype: Infocyte Extension
 type: Response
