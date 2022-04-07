@@ -1,4 +1,4 @@
 --[=[ 
 name: current
-filetype: Test Ext 1
-type: Collection
+filetype: Test Ext
+type: Collection 
