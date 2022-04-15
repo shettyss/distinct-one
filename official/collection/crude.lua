@@ -1,4 +1,4 @@
 --[=[ 
 name: crude
-filetype: Test Ext CR
+filetype: Test Ext CR1
 type: Collection
